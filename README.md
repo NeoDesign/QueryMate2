@@ -41,6 +41,13 @@
 
 - Optional: *.env* file to override config variables (e.g. *EMBEDDING_TYPE*)
 
+- Python3 must be installed
+- Optional: add the following line in your ~/.bashrc file to work with the syntax described below (python3 ...):
+```sh
+alias python3='python'
+```
+- Microsoft Build Tools für C++ must be installed https://visualstudio.microsoft.com/de/visual-cpp-build-tools/
+
 ---
 
 ## 🧱 Project Structure
